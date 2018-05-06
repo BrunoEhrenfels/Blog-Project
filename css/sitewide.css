@@ -30,7 +30,8 @@ body {
 	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #222;
+	color: #543A36;
+	background-color: #E8A195;
 }
 
 /*	Generally, you will only want one container element in
@@ -46,6 +47,7 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
+	background-color: white;
 	
 }
 
