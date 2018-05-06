@@ -27,10 +27,11 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #222;
+	color: #543A36;
+	background-color: #E8A195;
 }
 
 /*	Generally, you will only want one container element in
@@ -46,6 +47,7 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #eee;
+	background-color: #FFF;
+	text-align: center;
+	
 }
-
