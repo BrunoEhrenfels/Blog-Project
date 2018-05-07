@@ -3,4 +3,5 @@ title: "Prototype Sneaker Code for Conference Project"
 ---
 
 <img src="/Blog-Project/img/sneakercode.png" alt="Prototype Sneaker Code for Conference Project">
+
 Prototype illustration of how speakers will be organized for conference project.
