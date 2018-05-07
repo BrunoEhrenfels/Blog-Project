@@ -4,4 +4,5 @@ description: "Artist Tom Sachs on designing the nike mars yard"
 ---
 
 <img src="/Blog-Project/img/Sachs.jpg" alt="Nike Mars Yard Sneaker">
+
 In this interview with Esquire Magazine, Artist Tom Sachs Talks about why and how he designed the Nike Mars Yard sneaker which has become one of the most coveted grails among sneaker heads. Read the article [here](https://www.esquire.com/style/mens-fashion/news/a55538/tom-sachs-nike-mars-yard/).
