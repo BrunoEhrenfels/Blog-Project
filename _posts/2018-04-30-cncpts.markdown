@@ -1,0 +1,8 @@
+---
+title: "A Piece of Unfortunate Web Design"
+description: "Bad code used for global nav bar"
+---
+
+<img src="/Blog-Project/img/cncpts.jpg" alt="menu that doesnt fit in page">
+
+CNCPTS Sneaker Boutique in Boston is one of my stores but while I was on the website I noticed a piece of pretty bad web design. As you can see in this scree grab, The menu falles bellow the edge of the screen but because the nav bar stay at the top of the screen no matter how much you scroll you can never reach the bottom of the menu. See it for yourself [here](https://cncpts.com)
