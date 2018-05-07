@@ -1,0 +1,5 @@
+---
+title: "Why App Design has Become Homogenous"
+---
+
+AIGA article on the current state of homogenous app design and how it can be fixed. Check it out [here](https://eyeondesign.aiga.org/why-app-design-has-become-homogenous-and-how-we-can-fix-it/).
