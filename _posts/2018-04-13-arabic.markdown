@@ -1,0 +1,6 @@
+---
+title: "Arabic Type Design"
+description: "Article about the future of arabic type face"
+---
+
+Article about the current state of typography in the arabic language. Check it out [here](https://eyeondesign.aiga.org/arabic-type-design-is-about-to-experience-an-awakening/).
