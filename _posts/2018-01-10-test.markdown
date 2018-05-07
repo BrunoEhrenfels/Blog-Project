@@ -3,6 +3,6 @@ title: "Coolest Car Ever?"
 description: "1998 VW Jetta GT Sighting"
 ---
 
-<img src="/web1-sp/img/jetta.jpg" alt="Photo of Jetta GT 1998">
+<img src="/Blog-Project/img/jetta.jpg" alt="Photo of Jetta GT 1998">
 
 On my walk home from work I saw a 1998 Jetta GT. To me this is one of the best designed cars. Although it may seem unassuming, to me the Jetta GT is the epitome of the squared off, aggresive styling that dominated the design of 90's German sport sedans/coupes. Although it never had the power to compete with with the Beemer's and Merc's, It had the looks to compete with the best.
