@@ -1,5 +1,5 @@
 ---
-title: "Finihed Logo For Conference Project"
+title: "Finished Logo For Conference Project"
 description: "Logo for Confernce Project GDES 201"
 ---
 
