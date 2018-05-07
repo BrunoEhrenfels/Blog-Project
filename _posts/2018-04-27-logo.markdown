@@ -1,0 +1,8 @@
+---
+title: "Finihed Logo For Conference Project"
+description: "Logo for Confernce Project GDES 201"
+---
+
+<img src="/Blog-Project/img/Conferense Logo.png" alt="Insoles Online Logo">
+
+This is a logo I designed for a fake conference for a project in my Web Design class.
